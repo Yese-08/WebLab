@@ -1,3 +1,6 @@
 [submodule "Aeropuerto"]
 	path = Aeropuerto
 	url = https://github.com/Yese-08/aeropuerto.git
+[submodule "Hotel"]
+	path = Hotel
+	url = https://github.com/Yese-08/Hotel.git
